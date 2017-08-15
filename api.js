@@ -1,5 +1,5 @@
 /**
-	This represent de Client Page Access.
+	It represent de Client Page Access.
 */
 var ClientPageAccess = {
 
