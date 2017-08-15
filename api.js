@@ -1,4 +1,4 @@
-
+// ##
 var ClientPageAccess = {
 
 	timestamp:new Date(),
