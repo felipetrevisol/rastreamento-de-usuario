@@ -1,6 +1,4 @@
-/**
-It represent de Client Page Access
-*/
+
 var ClientPageAccess = {
 
 	timestamp:new Date(),
